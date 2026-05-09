@@ -2,7 +2,7 @@
 
 second-year at lse studying economics & philosophy. i like building things that sit at the intersection of data, product and health.
 
-## projects
+## some  projects
 
 [**fire ai**](https://github.com/sid-081205/fire-ai) — predicts stubble burning fires across north india using satellite and weather data. 3rd place at the encode hackathon.
 
