@@ -1,6 +1,6 @@
 # hey, i'm sid
 
-second-year at lse studying economics & philosophy. i like building things that sit at the intersection of data, product and health.
+i study economics & philosophy at lse. i like building things that sit at the intersection of data, product and health.
 
 ## some  projects
 
