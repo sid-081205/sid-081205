@@ -1,16 +1,23 @@
-## Hi there 👋
+# hey, i'm sid
 
-<!--
-**sid-081205/sid-081205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+second-year at lse studying economics & philosophy. i like building things that sit at the intersection of data, product and health.
 
-Here are some ideas to get you started:
+## projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[**fire ai**](https://github.com/sid-081205/fire-ai) — predicts stubble burning fires across north india using satellite and weather data. 3rd place at the encode hackathon.
+
+[**flowchain**](https://github.com/sid-081205/flowchain) — a native crypto wallet built for seamless on-chain transactions. 2nd place at the spoon os hackathon.
+
+[**big-d**](https://github.com/sid-081205/big-d) — data-driven model to determine optimal placement for the next tfl station. 1st place at the susquehanna datathon.
+
+[**pm feedback**](https://github.com/sid-081205/pm-feedback) — analyzes and clusters product feedback so pms can spot patterns without reading every ticket.
+
+[**macro**](https://github.com/sid-081205/macro) — a calorie and workout tracking app — publishing soon on the app store!
+
+[**via hack**](https://github.com/sid-081205/via-hack) — an agentic travel assistant that plans and books your entire trip end-to-end.
+
+[**capturefi**](https://github.com/ChanEuJun/CaptureFi) — aggregates crypto news into a single feed and lets you execute trades directly via pear protocol.
+
+## also a lot of
+
+web scrapers for competitive analysis, rag frameworks for document search, and agentic workflows for personal automation
