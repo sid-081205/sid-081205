@@ -20,4 +20,4 @@ i study economics & philosophy at lse. i like building things that sit at the in
 
 ## also a lot of
 
-web scrapers for competitive analysis, rag frameworks for document search, and agentic workflows for personal automation
+web scrapers for competitive analysis, rag frameworks for document search, and custom personal agentic workflows 
