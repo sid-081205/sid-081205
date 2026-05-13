@@ -3,7 +3,7 @@
 i study econ & philosophy at lse and i like data.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-dark.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="ascii-dark.gif">
   <img src="assets/ascii-light.gif" alt="ASCII portrait" width="100%">
 </picture>
 
