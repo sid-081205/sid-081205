@@ -1,11 +1,6 @@
 # hey, i'm sid
 
-i study econ & philosophy at lse and i like data.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="ascii-dark.gif">
-  <img src="assets/ascii-light.gif" alt="ASCII portrait" width="100%">
-</picture>
+i study econ & philosophy and i like data.
 
 ## some projects
 
