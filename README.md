@@ -1,8 +1,13 @@
 # hey, i'm sid
 
-i study economics & philosophy at lse. i like building things that sit at the intersection of data, product and health.
+i study econ & philosophy at lse and i like data.
 
-## some  projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-dark.gif">
+  <img src="assets/ascii-light.gif" alt="ASCII portrait" width="100%">
+</picture>
+
+## some projects
 
 [**fire ai**](https://github.com/sid-081205/fire-ai) — predicts stubble burning fires across north india using satellite and weather data. 3rd place at the encode hackathon.
 
@@ -20,4 +25,4 @@ i study economics & philosophy at lse. i like building things that sit at the in
 
 ## also a lot of
 
-web scrapers for competitive analysis, rag frameworks for document search, and custom personal agentic workflows 
+web scrapers for competitive analysis, rag frameworks for document search, and custom personal agentic workflows
