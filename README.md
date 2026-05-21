@@ -1,6 +1,6 @@
 # hey, i'm sid
 
-i study econ & philosophy and i like data.
+i study philosophy and econ. i love data.
 
 ## some projects
 
