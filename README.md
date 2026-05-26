@@ -1,6 +1,6 @@
 # hey, i'm sid
 
-i study philosophy and economics at the lse. i like thinking about game theory, rationality, and data.
+i study philosophy and economics at the lse. i like thinking about game theory, rationality, and data. i write on cool topics [here](https://sid081205.substack.com)
 
 ## some projects
 
