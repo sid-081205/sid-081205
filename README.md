@@ -6,7 +6,7 @@ i study philosophy and economics at the lse. i like thinking about ai, rationali
 
 [**tempo**](https://github.com/sid-081205/tempo) — your schedule affects your health. tempo shows you how. full stack website + app
 
-[**stagely**](https://github.com/sid-081205/staged) — real estate and airbnb staging needs to be more efficient. full website live [here](https://stagely.org). developed using an agentic loop, 20 ish paying users already.
+[**stagely**](https://github.com/sid-081205/staged) — real estate staging needs to be more efficient. product live [here](https://stagely.org). developed using an agentic loop, 20 people pay me for this.
 
 [**fire ai**](https://github.com/sid-081205/fire-ai) — predicts stubble burning fires across north india using satellites. 3rd place at the encode hackathon.
 
