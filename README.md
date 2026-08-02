@@ -1,6 +1,7 @@
 # hey, i'm sid
 
-i study philosophy & economics at the lse. i like thinking about ai, rationality and and data. i write on cool topics [here](https://sid081205.substack.com)
+i study philosophy & econ at the lse. i like thinking about ai, rationality and and data. i write on cool topics [here](https://sid081205.substack.com)
+& [here](https://sapiens.wiki)
 
 ## some projects
 
