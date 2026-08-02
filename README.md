@@ -2,22 +2,26 @@
 
 i study philosophy and economics at the lse. i like thinking about ai, philosophy and and data. i write on cool topics [here](https://sid081205.substack.com)
 
-## some projects
+## some products
 
-[**fire ai**](https://github.com/sid-081205/fire-ai) — predicts stubble burning fires across north india using satellite and weather data. 3rd place at the encode hackathon.
+[**tempo**](https://github.com/sid-081205/tempo) — your schedule affects your health. tempo shows you how. full stack website + app
 
-[**flowchain**](https://github.com/sid-081205/flowchain) — a native crypto wallet built for seamless on-chain transactions. 2nd place at the spoon os hackathon.
+[**stagely**](https://github.com/sid-081205/staged) — real estate and airbnb staging needs to be more efficient. full website live [here](https://stagely.org). developed using an agentic loop, 20 ish paying users already.
+
+[**fire ai**](https://github.com/sid-081205/fire-ai) — predicts stubble burning fires across north india using satellites. 3rd place at the encode hackathon.
+
+[**flowchain**](https://github.com/sid-081205/flowchain) — crypto wallet for seamless on-chain transactions. 2nd place at the spoon os hackathon.
 
 [**big-d**](https://github.com/sid-081205/big-d) — data-driven model to determine optimal placement for the next tfl station. 1st place at the susquehanna datathon.
 
-[**pm feedback**](https://github.com/sid-081205/pm-feedback) — analyzes and clusters product feedback so pms can spot patterns without reading every ticket.
+[**macro**](https://github.com/sid-081205/macro) — a free calorie / workout tracking app that also sends money to your friend if you're not consistent— publishing soon on the app store!
 
-[**macro**](https://github.com/sid-081205/macro) — a calorie and workout tracking app — publishing soon on the app store!
+## some fun experiments
 
-[**via hack**](https://github.com/sid-081205/via-hack) — an agentic travel assistant that plans and books your entire trip end-to-end.
+[**tried to gamify homelessness**](https://github.com/sid-081205/street-giving-london) — my friend asked me what I would do if I was homeless
 
-[**capturefi**](https://github.com/ChanEuJun/CaptureFi) — aggregates crypto news into a single feed and lets you execute trades directly via pear protocol.
+[**tried to measure consciousness**](https://github.com/sid-081205/consciousness-tests/tree/main) — always thought opus was more conscious than the gpts
 
-## also a lot of
+[**how do people travel**](https://github.com/sid-081205/why-travel-piece/tree/main) — was fortunate to travel a lot, began thinking about travel in general
 
-web scrapers for competitive analysis, rag frameworks for document search, and custom personal agentic workflows
+
