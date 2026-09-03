@@ -7,11 +7,11 @@ and [here](http://sapiens.wiki/).
 
 [**tempo**](https://github.com/sid-081205/tempo) — your schedule affects your health. tempo shows you how. full stack website + app
 
-[**stagely**](https://github.com/sid-081205/staged) — real estate staging needs to be more efficient. product live [here](https://stagely.org). developed using an agentic loop, 20 people pay me for this.
+[**stagely**](https://github.com/sid-081205/staged) — real estate staging needs to be more efficient, developed using an agentic loop, 20 people paid me for this.
 
 [**fire ai**](https://github.com/sid-081205/fire-ai) — predicts stubble burning fires across north india using satellites. 3rd place at the encode hackathon.
 
-[**flowchain**](https://github.com/sid-081205/flowchain) — crypto wallet for seamless on-chain transactions. 2nd place at the spoon os hackathon.
+[**flowchain**](https://github.com/sid-081205/flowchain) — crypto wallet for fast on-chain transactions. 2nd place at the spoon os hackathon.
 
 [**big-d**](https://github.com/sid-081205/big-d) — data-driven model to determine optimal placement for the next tfl station. 1st place at the susquehanna datathon.
 
